@@ -22,7 +22,7 @@ This project recommends movies based on content similarity (genres, keywords, ca
 
 
 >  
-> ![Demo Video](video.mp4)
+> ![Demo Video](Video.mp4)
 
 ---
 
